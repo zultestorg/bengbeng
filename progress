@@ -1,0 +1,7 @@
+// this is to check progress
+
+progress () {
+  echo "progress"
+  }
+  
+progress
